@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Projects
-- [맛집 추천 딥러닝 챗봇 개발 with tensorflow](https://github.com/eogus0512/Chatbot_Project)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eogus0512)](https://github.com/anuraghazra/github-readme-stats)
+- [맛집 추천 딥러닝 챗봇 개발 **with tensorflow**](https://github.com/eogus0512/Chatbot_Project)
 
 <div align=center>
 	
