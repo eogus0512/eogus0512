@@ -1,4 +1,4 @@
-## Welcome Daehyun's World~! 👋
+### Welcome Daehyun's World~! 👋
 
 <!--
 **eogus0512/eogus0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Projects
+- [맛집 추천 딥러닝 챗봇 개발 with tensorflow](https://github.com/eogus0512/Chatbot_Project)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eogus0512)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
