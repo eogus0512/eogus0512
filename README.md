@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Projects
+## Projects
 #### Web Project
   - [공부방 사이트 개발 **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
 #### DeepLearning Chatbot Project
