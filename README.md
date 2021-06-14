@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## Projects
 #### Web Project
   - [공부방 사이트 개발 **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
-#### DeepLearning Chatbot Project
+#### DeepLearning Project
   - [동국대학교 주변 맛집 추천 챗봇 개발 **with tensorflow**](https://github.com/eogus0512/Chatbot_DeepLearning) 
   - [API를 사용하여 웹상에서 챗봇 구현 **with flask, JavaScript, React**](https://github.com/eogus0512/Chatbot_Project) 
