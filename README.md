@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/eogus012/eogus0512">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masayuki-JP&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Masayuki-JP's GitHub Repos" />
+</a>
+
 ## Projects
 #### Web Project
   - [공부방 사이트 개발 **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
