@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Projects
 #### Web Project
   - [공부방 사이트 개발 **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
-  - [동국대학교 주변 맛집 후기 작성  **with JSP**](https://github.com/ddolI98/DGU_restaurant_WebProject)
+  - [동국대학교 주변 식당 정보 조회 및 후기 공유 웹 개발 **with JSP**](https://github.com/ddolI98/DGU_restaurant_WebProject)
 #### Android Project
   - [편의점 PB 상품 후기 공유 앱 개발 **with Java**](https://github.com/CSID-DGU/2021-1-OSSP2-Barcode-8)
 #### DeepLearning Project
