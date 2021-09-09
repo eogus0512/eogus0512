@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ## Projects
 #### Web Project
-  - [공부방 사이트 개발 **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
-  - [동국대학교 주변 식당 정보 조회 및 후기 공유 웹 개발 **with JSP**](https://github.com/ddolI98/DGU_restaurant_WebProject)
+  - [공부방 사이트 개발 (2018) **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
+  - [동국대학교 주변 식당 정보 조회 및 후기 공유 웹 개발 (2021) **with JSP**](https://github.com/ddolI98/DGU_restaurant_WebProject)
 #### Android Project
-  - [편의점 PB 상품 후기 공유 앱 개발 **with Java**](https://github.com/CSID-DGU/2021-1-OSSP2-Barcode-8)
+  - [편의점 PB 상품 후기 공유 앱 개발 (2021) **with Java**](https://github.com/CSID-DGU/2021-1-OSSP2-Barcode-8)
 #### DeepLearning Project
-  - [동국대학교 주변 맛집 추천 챗봇 개발 **with tensorflow**](https://github.com/eogus0512/Chatbot_DeepLearning) 
-  - [API를 사용하여 웹상에서 챗봇 구현 **with flask, JavaScript, React**](https://github.com/eogus0512/Chatbot_Project) 
+  - [동국대학교 주변 맛집 추천 챗봇 개발 (2020) **with tensorflow**](https://github.com/eogus0512/Chatbot_DeepLearning) 
+  - [API를 사용하여 웹상에서 챗봇 구현 (2020) **with flask, JavaScript, React**](https://github.com/eogus0512/Chatbot_Project) 
