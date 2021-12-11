@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### Web Project
   - [공부방 사이트 개발 (2018) **with Java, JavaScript**](https://github.com/eogus0512/Web_Project)
   - [동국대학교 주변 식당 정보 조회 및 후기 공유 웹 개발 (2021) **with JSP, JAVA**](https://github.com/ddolI98/DGU_restaurant_WebProject)
-  - [퀴즈 풀이 웹사이트 개발 (2021) **with JSP, JAVA**]
+  - [퀴즈 풀이 웹사이트 개발 (2021) **with JSP, JAVA**](https://github.com/eogus0512/Quiz_WebProject)
   - [항공권 예약 시스템 개발 (2021) **with Spring(Kotlin)**](https://github.com/eogus0512/OnAir)
 
 #### Android Project
