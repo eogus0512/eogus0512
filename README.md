@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   - [API를 사용하여 웹상에서 챗봇 구현 (2020) **with flask, JavaScript, React**](https://github.com/eogus0512/Chatbot_Project) 
 
 #### Algorithm
-  - [알고리즘 ](https://github.com/eogus0512/AlgorithmStudy)
+  - [알고리즘 스터디](https://github.com/eogus0512/AlgorithmStudy)
