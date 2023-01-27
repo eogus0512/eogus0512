@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 #### Algorithm
   - [알고리즘 스터디](https://github.com/eogus0512/AlgorithmStudy)
 
-github-readme-stats.vercel.app/api/top-langs/?username=eogus0512&langs_count=8
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eogus0512&layout=compact&theme=tokyonight)
