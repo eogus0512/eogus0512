@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eogus0512&layout=compact)
+
 <a href="https://github.com/eogus0512/eogus0512">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eogus0512&hide=c%2B%2B,Jupyter Notebook&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="" />
 </a>
@@ -35,5 +38,3 @@ Here are some ideas to get you started:
 
 #### Algorithm
   - [알고리즘 스터디](https://github.com/eogus0512/AlgorithmStudy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eogus0512&layout=compact)
