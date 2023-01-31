@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Blog
-[대현's 개발일지](https://eogus0512.github.io)
+- [대현's 개발일지](https://eogus0512.github.io)
 
 ## Projects
 #### Web Project
