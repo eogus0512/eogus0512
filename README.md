@@ -52,8 +52,9 @@ Here are some ideas to get you started:
   - [커플 일상 및 데이트 정보 공유 SNS[개인] (2023 ~ 진행중)](https://github.com/eogus0512/LoveShare_SpringBoot) <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
 
 
-#### Android Project
+#### App Project
   - [편의점 PB 상품 후기 공유 앱[팀] (2021)](https://github.com/CSID-DGU/2021-1-OSSP2-Barcode-8)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+  - [외국인 대상 국내 여행지 커뮤니티 앱[팀] (2023 ~ 진행중) (https://github.com/FTG-Project/FTG_Backend) <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
 
 
 #### DeepLearning Project
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
 
 
 
-#### Algorithm
+#### Study
   - [알고리즘 스터디](https://github.com/eogus0512/AlgorithmStudy)
+  - [CS 스터디](https://cs-study.atlassian.net/wiki/spaces/csstudy/overview?cloudId=1a610320-c5c1-4176-b5ee-a6d8fbc550d2)
 
