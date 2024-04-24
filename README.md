@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/QueryDSL-FF6200?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 
 
 </p>
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
   - [퀴즈 풀이 웹사이트[팀] (2021)](https://github.com/eogus0512/Quiz_WebProject) <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white"/>
   - [항공권 예약 시스템[팀] (2021)](https://github.com/eogus0512/OnAir) <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
   - [커플 일상 및 데이트 정보 공유 SNS[개인] (2023 ~ 진행중)](https://github.com/eogus0512/LoveShare_SpringBoot) <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  - [모임 커뮤니티 (2024 ~ 진행중)](https://github.com/moyeobwa/moyeobwa) <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 
 
 
