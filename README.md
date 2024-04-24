@@ -63,7 +63,6 @@ Here are some ideas to get you started:
 
 #### App Project
   - [편의점 PB 상품 후기 공유 앱[팀] (2021)](https://github.com/CSID-DGU/2021-1-OSSP2-Barcode-8)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-  - [외국인 대상 국내 여행지 커뮤니티 앱[팀] (2023 ~ 진행중)](https://github.com/FTG-Project/FTG_Backend) <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   - [실시간 채소 최저가 정보 알림 및 레시피 공유 서비스[팀] (2023)](https://github.com/CSID-DGU/2023-02-CECD2-5)  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
 
