@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ## ⚡Blog
 - [대현's 개발일지](https://eogus0512.github.io)
+- [daehyun._.log](https://velog.io/@eogus0512/posts))
 <br>
 
 ## 💻Projects
